@@ -5,7 +5,6 @@ import { LinearGradient } from "expo-linear-gradient"
 import { useNavigation } from "@react-navigation/native"
 import { useSQLiteContext } from "expo-sqlite"
 import { getDatabaseInstance } from "../database/database"
-
 import FieldSelector from "../components/FormGenerator/FieldSelector"
 
 export default function FormEditor() {

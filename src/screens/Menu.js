@@ -21,7 +21,7 @@ export default function Menu() {
   const handleRellenarPress = () => {
     selectedForm ?
       navigation.navigate('FormFiller') :
-      Alert.alert('Error', 'Seleccione un formulario primero')
+      Alert.alert('Error', 'Seleccione un formulario primero xd')
   }
 
 
