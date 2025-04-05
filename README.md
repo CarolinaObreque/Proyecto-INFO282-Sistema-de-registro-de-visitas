@@ -49,8 +49,7 @@ Para ejecutar, solo hay que moverse al directorio src y ejecutar lo siguiente:
 bun install
 bun start
 ```
-De esa manera, el terminal ejecutará expo start y mostrará un codigo QR el cual al escanearlo desde un dispositivo movil,
-abrirá expo go y ejecutara el proyecto en modo desarrollador. Mas de un dispositivo puede abrir el proyecto simultaneamente.
+De esa manera, el terminal ejecutará expo start y mostrará un codigo QR el cual al escanearlo desde un dispositivo movil que este conectado a la misma red que en su computador, esto abrirá expo go y ejecutara el proyecto en modo desarrollador. Mas de un dispositivo puede abrir el proyecto simultaneamente.
 
 ---
 
